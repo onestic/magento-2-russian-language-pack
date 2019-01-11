@@ -1,5 +1,5 @@
 {
-  "name": "mageplaza/magento-2-russian-language-pack",
+  "name": "onestic/mageplaza_magento-2-russian-language-pack",
   "description": "Russian language package for Magento 2",
   "homepage": "https://www.mageplaza.com",
   "require": {
